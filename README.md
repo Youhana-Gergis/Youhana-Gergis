@@ -3,3 +3,7 @@
 <a align="center" href="https://portfolio-umber-seven-66.vercel.app/">MY Portfolio</a></a>
 
 <h1 align="center">Hi 👋, I'm Youhana Gerges</h1>
+
+<h3 align="center">Software Engineer || Frontend </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Taha-Shaban-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="Taha-Shaban-kamel" /> </p>
