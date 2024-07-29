@@ -35,4 +35,6 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youhana-Gergis&layout=compact&theme=dark" alt=Taha-Shaban-kamel />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youhana-Gergis&layout=compact&theme=dark" alt=Youhana-Gergis />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Youhana-Gergis&show_icons=true&locale=en&theme=dark" alt="Youhana-Gergis" /></p>
