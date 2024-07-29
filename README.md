@@ -7,3 +7,8 @@
 <h3 align="center">Software Engineer || Frontend </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taha-Shaban-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="Taha-Shaban-kamel" /> </p>
+
+- 🌱 I’m currently learning BackEnd *NodeJs*
+- 💬 Ask me about FrontEnd *HTML, CSS ,JS, React *
+- 📫 How to reach me *tahashaban743@gmail.com , 01023721592*
+- 👨‍💻 All of my projects are available at **https://taha-shaban-kamel.github.io/Portfolio/#home**
