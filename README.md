@@ -38,3 +38,18 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youhana-Gergis&layout=compact&theme=dark" alt=Youhana-Gergis />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Youhana-Gergis&show_icons=true&locale=en&theme=dark" alt="Youhana-Gergis" /></p>
+
+
+<a href="https://github.com/Youhana-Gergis">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youhana-Gergis&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youhana-Gergis&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youhana-Gergis&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youhana-Gergis&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youhana-Gergis&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Youhana-Gergis&theme=react-dark"/>
